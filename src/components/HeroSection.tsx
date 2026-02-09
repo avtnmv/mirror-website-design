@@ -19,7 +19,7 @@ const HeroSection = () => {
 
             <div className="flex-wrap mt-12 items-start justify-start flex flex-row gap-[24px]">
               <div className="flex items-center gap-3">
-                <div className="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center">
+                <div className="w-12 h-12 rounded-full flex items-center justify-center bg-amber-100">
                   <Clock className="text-accent" size={22} />
                 </div>
                 <div>
@@ -28,7 +28,7 @@ const HeroSection = () => {
                 </div>
               </div>
               <div className="flex items-center gap-3">
-                <div className="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center">
+                <div className="w-12 h-12 rounded-full flex items-center justify-center bg-amber-100">
                   <Users className="text-accent" size={22} />
                 </div>
                 <div>
@@ -37,7 +37,7 @@ const HeroSection = () => {
                 </div>
               </div>
               <div className="flex items-center gap-3">
-                <div className="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center">
+                <div className="w-12 h-12 rounded-full flex items-center justify-center bg-amber-100">
                   <Shield className="text-accent" size={22} />
                 </div>
                 <div>
